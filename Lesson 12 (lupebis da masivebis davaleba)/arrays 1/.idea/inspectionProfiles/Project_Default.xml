@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="ttx-okta-client" />
+          <option value="ttx-secret-managers" />
+          <option value="benchling-sdk" />
+          <option value="bokeh" />
+          <option value="dateparser" />
+          <option value="django-filter" />
+          <option value="django-tables2" />
+          <option value="matplotlib" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="plotly" />
+          <option value="rdkit" />
+          <option value="scipy" />
+          <option value="tablib" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
